@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+.signupbx{
+    margin-left: 430px;
+    padding: 80px;
+}
+.siguptxt{
+   margin-left: 100px ;
+   font-size: small;
+}
+.gglendapple{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 54px;
+    margin-top: 40px;
+    margin-left: 7px;
+    /* width: 242px; */ 
+}
+.googlebtn button{
+    border-radius: 3px;
+    height: 40px;
+    background-color:#005AE2 ;
+    border: none;
+    width: 109px;
+}
+.applebtn button{
+    border-radius: 3px;
+    height: 40px;
+    background-color:#005AE2 ;
+    border: none;
+    width: 109px;
+}
+.ptag{
+    margin-top: 10px;
+    margin-right: 300px;
+}
+.usname input{
+    margin-top: 30px;
+    width: 350px;
+    height: 30px;
+    border: 2px solid #005AE2;
+    border-radius: 8px;
+}
+.emailbx input{
+    margin-top: 30px;
+    width: 350px;
+    height: 30px;
+    border: 2px solid #005AE2;
+    border-radius: 8px;
+}
+.pswrd input{
+    margin-top: 30px;
+    width: 350px;
+    height: 30px;
+    border: 2px solid #005AE2;
+    border-radius: 8px;
+}
+.retype input{
+    margin-top: 30px;
+    width: 350px;
+    height: 30px;
+    border: 2px solid #005AE2;
+    border-radius: 8px;
+}
+.retype p{
+    color: #A0B1C0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+.shnbx{
+    margin-left: 10px;
+   
+}
+.signups button{
+    margin-top: 20px; 
+    width: 350px;
+    height: 40px;
+    border-radius: 100px;
+    background: #005AE2;
+    margin-left:10px ;
+    border: none;
+}
+.signups p{
+     margin-left: 100px;
+
+}
+.signuptxt2 p{
+    font-size: 12px;
+    padding-bottom: 50px;
+}
+.sevnth-conttainer{
+    width: 1440px;
+    height: 561px;
+    background: #FFFFFF;
+    display: flex;
+}
+.logobx2{
+    display: flex;
+}
+.inner-bx{
+    margin-top: 70px;
+    margin-left: 60px;
+}
+.write-up-bx{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 70px;
+    width: 812px;
+    height: 384px;
+   margin-left: 300px;
+   line-height: 30px;
+   
+}
+.logobx2 p{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.logobx2 img{
+   gap: 25px;
+}
+.social{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.firstscbx{
+    margin-top: 67px;
+}
+.solutionbx{
+    margin-top: 60px;
+}
+.cmpny-bx{
+    margin-top: 60px;
+}
+
+.prdctbx{
+    margin-top: 67px;
+}
+
+.rstxt{
+    margin-top: 60px;
+}
+.fturs{
+    margin-top: 54px;
+}
+.lgalbx{
+    margin-top: 64px;
+}
+.retype p{
+    margin-top:25px;
+    font-size: 10px;
+}
+

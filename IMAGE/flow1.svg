@@ -1,0 +1,10 @@
+/* Vector */
+
+position: absolute;
+left: -23.77%;
+right: 90.67%;
+top: 8.32%;
+bottom: -101.31%;
+
+background: linear-gradient(272.54deg, rgba(158, 230, 247, 0) -5.72%, rgba(158, 230, 247, 0.138) 86.38%);
+transform: matrix(0.76, -0.65, 0.84, 0.55, 0, 0);
